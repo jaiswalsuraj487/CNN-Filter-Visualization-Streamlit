@@ -1,2 +1,2 @@
 # CNN-Filter-Visualization-Streamlit
-Visualizattion of different kernels filters in CNN on any image
+Visualization of different kernel filters in CNN on any image
